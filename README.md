@@ -5,11 +5,11 @@
 ***
 **Things about me**
 
-- 🌱 I’m a Graduate student in Data Science on the path of learning R, Python
+- 🌱 I’m a Graduate student in Data Science on the path of learning R, Python, Tableau
 - 📫 Find me on: [LinkedIn Profile](https://www.linkedin.com/in/dhrishya-menon-2609/)
 - 😄 Pronouns: She/Her
 - 🎈 Hobbies: Reading, Gardening 
-- 📺 Favourite Series/Anime: Person of Interest, Attack on Titan
+- 📺 Favourite Series/Anime: Person of Interest, That time I got reincarnated as Slime
 ***
 
 >These are some of my academic projects:
