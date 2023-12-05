@@ -9,7 +9,7 @@
 - 📫 Find me on: [LinkedIn Profile](https://www.linkedin.com/in/dhrishya-menon-2609/)
 - 😄 Pronouns: She/Her
 - 🎈 Hobbies: Reading, Bird Watching, Gardening 
-- 📺 Favourite Series/Anime: Person of Interest, That time I got reincarnated as Slime
+- 📺 Favourite Series/Anime: Person of Interest, Hunter x Hunter
 ***
 
 >These are some of my academic projects:
